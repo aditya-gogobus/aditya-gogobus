@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aditya, a Sodtware Developer 👨‍💻 working remotely since 2022 🚀</div>  
+## <div align="center">I'm Aditya, a Software Developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
