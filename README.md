@@ -93,4 +93,4 @@
 
 <br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-gogobus&count_private=true" alt="aditya-gogobus" /></p>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-gogobus&count_private=true&hide_border=true" alt="aditya-gogobus" /></div>
